@@ -50,7 +50,7 @@ body {
 .refresh-btn {
   position: fixed;
   left: 50%;
-  bottom: 40px;
+  bottom: 20px;
   outline: none;
   color: #fff;
   cursor: pointer;
